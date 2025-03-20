@@ -184,8 +184,3 @@ if st.button("Load Model"):
     
     st.success("Models and embeddings loaded successfully!")
 
-# ================================
-# 12. Fix Streamlit Watchdog Issue
-# ================================
-# To disable file watcher:
-# streamlit run chatbot.py --server.fileWatcherType none
