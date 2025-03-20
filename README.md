@@ -1,6 +1,6 @@
 # dVerse-Technologies
 
-### 1. 🧠 Parkinson's Disease Detection (CNN + BiLSTM)
+### 1. Parkinson's Disease Detection (CNN + BiLSTM)
 - **Description:**  
    This project uses a combination of Convolutional Neural Networks (CNN) and Bidirectional LSTM (BiLSTM) to detect Parkinson's disease from medical data.  
 
@@ -24,7 +24,7 @@
 
 ---
 
-### 2. ✋ Hand Landmarks Tracking (MediaPipe + OpenCV)
+### 2. Hand Landmarks Tracking (MediaPipe + OpenCV)
 - **Description:**  
    Developed a computer vision project to track and identify hand landmarks using MediaPipe and OpenCV.  
 
@@ -45,7 +45,7 @@
 
 ---
 
-### 3. 🤖 HDFC Hybrid FAQ Chatbot (DistilBERT + GPT-2 Fallback)
+### 3. HDFC Hybrid FAQ Chatbot (DistilBERT + GPT-2 Fallback)
 - **Description:**  
    Built a hybrid chatbot for HDFC Bank FAQs using DistilBERT for retrieval-based matching and GPT-2 Medium for fallback answers.  
 
